@@ -100,10 +100,10 @@ exceed employees).
 
 ## Challenge submission note
 
-This project and its tests run locally. Per the challenge page, the candidate
-still needs to push the project to a **public GitHub repository** and submit
-that repository URL before the deadline. This repository folder does not
-itself confirm that the upload or submission has happened.
+This project is published in the public GitHub repository
+[Aditya-2671/YottaFlex-Onboarding-System](https://github.com/Aditya-2671/YottaFlex-Onboarding-System).
+Per the challenge page, the candidate still needs to submit this repository
+URL on the challenge portal before the deadline.
 
 ## Limitations
 
