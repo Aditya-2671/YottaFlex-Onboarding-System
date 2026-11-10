@@ -1,0 +1,8 @@
+anomaly_id,issue_type,entity_id,expected_detection
+ANOM-001,task_before_prerequisite,TASK-ONB-ONB-2026-000001-002,Completed task has an incomplete prerequisite
+ANOM-002,missing_manager,EMP-000002,Employee manager is missing
+ANOM-003,duplicate_asset_assignment,AST-LAP-000001,Asset has overlapping active assignments
+ANOM-004,start_before_background_check,EMP-000004,Start date precedes background verification completion
+ANOM-005,offboarding_active_access,EMP-000500,Terminated employee retains approved access
+ANOM-006,overdue_tasks,TASK-ONB-ONB-2026-000500-008,Open task is past its due date
+ANOM-007,mid_process_department_change,EMP-000005,Department changed during active onboarding

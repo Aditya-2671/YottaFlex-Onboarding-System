@@ -1,0 +1,33 @@
+template_id,task_name,department_owner,required_role,required_location,sequence_number
+TPL-001,Sign employment documents,Human Resources,,,1
+TPL-002,Complete background verification,Human Resources,,,2
+TPL-003,Create corporate account,IT,,,3
+TPL-004,Provision role access,IT,,,4
+TPL-005,Approve access request,Manager,,,5
+TPL-006,Prepare laptop,IT,,,6
+TPL-007,Prepare workspace,Facilities,,,7
+TPL-008,Complete HR orientation,Human Resources,,,8
+TPL-009,Prepare laptop,IT,ROLE-001,Remote,6
+TPL-010,Prepare laptop,IT,ROLE-001,On-site,6
+TPL-011,Prepare laptop,IT,ROLE-002,Remote,6
+TPL-012,Prepare laptop,IT,ROLE-002,On-site,6
+TPL-013,Prepare laptop,IT,ROLE-003,Remote,6
+TPL-014,Prepare laptop,IT,ROLE-003,On-site,6
+TPL-015,Prepare laptop,IT,ROLE-004,Remote,6
+TPL-016,Prepare laptop,IT,ROLE-004,On-site,6
+TPL-017,Prepare laptop,IT,ROLE-005,Remote,6
+TPL-018,Prepare laptop,IT,ROLE-005,On-site,6
+TPL-019,Prepare laptop,IT,ROLE-006,Remote,6
+TPL-020,Prepare laptop,IT,ROLE-006,On-site,6
+TPL-021,Prepare laptop,IT,ROLE-007,Remote,6
+TPL-022,Prepare laptop,IT,ROLE-007,On-site,6
+TPL-023,Prepare laptop,IT,ROLE-008,Remote,6
+TPL-024,Prepare laptop,IT,ROLE-008,On-site,6
+TPL-025,Prepare laptop,IT,ROLE-009,Remote,6
+TPL-026,Prepare laptop,IT,ROLE-009,On-site,6
+TPL-027,Prepare laptop,IT,ROLE-010,Remote,6
+TPL-028,Prepare laptop,IT,ROLE-010,On-site,6
+TPL-029,Prepare laptop,IT,ROLE-011,Remote,6
+TPL-030,Prepare laptop,IT,ROLE-011,On-site,6
+TPL-031,Prepare laptop,IT,ROLE-012,Remote,6
+TPL-032,Prepare laptop,IT,ROLE-012,On-site,6

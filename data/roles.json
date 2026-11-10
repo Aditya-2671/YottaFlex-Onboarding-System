@@ -1,0 +1,62 @@
+[
+  {
+    "role_id": "ROLE-001",
+    "role_name": "Software Engineer",
+    "department_id": "DEPT-001"
+  },
+  {
+    "role_id": "ROLE-002",
+    "role_name": "Data Analyst",
+    "department_id": "DEPT-001"
+  },
+  {
+    "role_id": "ROLE-003",
+    "role_name": "Product Manager",
+    "department_id": "DEPT-001"
+  },
+  {
+    "role_id": "ROLE-004",
+    "role_name": "HR Specialist",
+    "department_id": "DEPT-002"
+  },
+  {
+    "role_id": "ROLE-005",
+    "role_name": "Recruiter",
+    "department_id": "DEPT-002"
+  },
+  {
+    "role_id": "ROLE-006",
+    "role_name": "Accountant",
+    "department_id": "DEPT-003"
+  },
+  {
+    "role_id": "ROLE-007",
+    "role_name": "IT Support Engineer",
+    "department_id": "DEPT-004"
+  },
+  {
+    "role_id": "ROLE-008",
+    "role_name": "Systems Administrator",
+    "department_id": "DEPT-004"
+  },
+  {
+    "role_id": "ROLE-009",
+    "role_name": "Facilities Coordinator",
+    "department_id": "DEPT-005"
+  },
+  {
+    "role_id": "ROLE-010",
+    "role_name": "Sales Executive",
+    "department_id": "DEPT-006"
+  },
+  {
+    "role_id": "ROLE-011",
+    "role_name": "Operations Analyst",
+    "department_id": "DEPT-007"
+  },
+  {
+    "role_id": "ROLE-012",
+    "role_name": "Marketing Specialist",
+    "department_id": "DEPT-008"
+  }
+]

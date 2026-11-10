@@ -1,0 +1,302 @@
+[
+  {
+    "manager_id": "MGR-0001",
+    "manager_name": "Lauren Nash",
+    "department_id": "DEPT-001",
+    "email": "manager1@example.test"
+  },
+  {
+    "manager_id": "MGR-0002",
+    "manager_name": "Rodney Hall",
+    "department_id": "DEPT-002",
+    "email": "manager2@example.test"
+  },
+  {
+    "manager_id": "MGR-0003",
+    "manager_name": "Roger Anderson",
+    "department_id": "DEPT-003",
+    "email": "manager3@example.test"
+  },
+  {
+    "manager_id": "MGR-0004",
+    "manager_name": "Eric Miles",
+    "department_id": "DEPT-004",
+    "email": "manager4@example.test"
+  },
+  {
+    "manager_id": "MGR-0005",
+    "manager_name": "Ashley Lee",
+    "department_id": "DEPT-005",
+    "email": "manager5@example.test"
+  },
+  {
+    "manager_id": "MGR-0006",
+    "manager_name": "Brian Garza",
+    "department_id": "DEPT-006",
+    "email": "manager6@example.test"
+  },
+  {
+    "manager_id": "MGR-0007",
+    "manager_name": "Brian Thomas",
+    "department_id": "DEPT-007",
+    "email": "manager7@example.test"
+  },
+  {
+    "manager_id": "MGR-0008",
+    "manager_name": "Anthony Bass",
+    "department_id": "DEPT-008",
+    "email": "manager8@example.test"
+  },
+  {
+    "manager_id": "MGR-0009",
+    "manager_name": "Jim Sexton",
+    "department_id": "DEPT-001",
+    "email": "manager9@example.test"
+  },
+  {
+    "manager_id": "MGR-0010",
+    "manager_name": "Kayla Palmer",
+    "department_id": "DEPT-002",
+    "email": "manager10@example.test"
+  },
+  {
+    "manager_id": "MGR-0011",
+    "manager_name": "Christopher Gilbert",
+    "department_id": "DEPT-003",
+    "email": "manager11@example.test"
+  },
+  {
+    "manager_id": "MGR-0012",
+    "manager_name": "Brandon Bryant",
+    "department_id": "DEPT-004",
+    "email": "manager12@example.test"
+  },
+  {
+    "manager_id": "MGR-0013",
+    "manager_name": "Amber Nash",
+    "department_id": "DEPT-005",
+    "email": "manager13@example.test"
+  },
+  {
+    "manager_id": "MGR-0014",
+    "manager_name": "Christine Brown",
+    "department_id": "DEPT-006",
+    "email": "manager14@example.test"
+  },
+  {
+    "manager_id": "MGR-0015",
+    "manager_name": "Brendan Wagner",
+    "department_id": "DEPT-007",
+    "email": "manager15@example.test"
+  },
+  {
+    "manager_id": "MGR-0016",
+    "manager_name": "Benjamin Robinson",
+    "department_id": "DEPT-008",
+    "email": "manager16@example.test"
+  },
+  {
+    "manager_id": "MGR-0017",
+    "manager_name": "Karen Jones DDS",
+    "department_id": "DEPT-001",
+    "email": "manager17@example.test"
+  },
+  {
+    "manager_id": "MGR-0018",
+    "manager_name": "Holly Wise",
+    "department_id": "DEPT-002",
+    "email": "manager18@example.test"
+  },
+  {
+    "manager_id": "MGR-0019",
+    "manager_name": "Wendy Smith",
+    "department_id": "DEPT-003",
+    "email": "manager19@example.test"
+  },
+  {
+    "manager_id": "MGR-0020",
+    "manager_name": "Mr. Allen Fletcher",
+    "department_id": "DEPT-004",
+    "email": "manager20@example.test"
+  },
+  {
+    "manager_id": "MGR-0021",
+    "manager_name": "Jose Rodgers",
+    "department_id": "DEPT-005",
+    "email": "manager21@example.test"
+  },
+  {
+    "manager_id": "MGR-0022",
+    "manager_name": "Monique Vincent",
+    "department_id": "DEPT-006",
+    "email": "manager22@example.test"
+  },
+  {
+    "manager_id": "MGR-0023",
+    "manager_name": "Ryan Wilson",
+    "department_id": "DEPT-007",
+    "email": "manager23@example.test"
+  },
+  {
+    "manager_id": "MGR-0024",
+    "manager_name": "Lauren Williams",
+    "department_id": "DEPT-008",
+    "email": "manager24@example.test"
+  },
+  {
+    "manager_id": "MGR-0025",
+    "manager_name": "Jonathan Smith",
+    "department_id": "DEPT-001",
+    "email": "manager25@example.test"
+  },
+  {
+    "manager_id": "MGR-0026",
+    "manager_name": "Jessica Stevens",
+    "department_id": "DEPT-002",
+    "email": "manager26@example.test"
+  },
+  {
+    "manager_id": "MGR-0027",
+    "manager_name": "Curtis Odom",
+    "department_id": "DEPT-003",
+    "email": "manager27@example.test"
+  },
+  {
+    "manager_id": "MGR-0028",
+    "manager_name": "Lindsey Vance",
+    "department_id": "DEPT-004",
+    "email": "manager28@example.test"
+  },
+  {
+    "manager_id": "MGR-0029",
+    "manager_name": "Molly Frost",
+    "department_id": "DEPT-005",
+    "email": "manager29@example.test"
+  },
+  {
+    "manager_id": "MGR-0030",
+    "manager_name": "Matthew Scott",
+    "department_id": "DEPT-006",
+    "email": "manager30@example.test"
+  },
+  {
+    "manager_id": "MGR-0031",
+    "manager_name": "Jennifer Robles",
+    "department_id": "DEPT-007",
+    "email": "manager31@example.test"
+  },
+  {
+    "manager_id": "MGR-0032",
+    "manager_name": "Heather Navarro",
+    "department_id": "DEPT-008",
+    "email": "manager32@example.test"
+  },
+  {
+    "manager_id": "MGR-0033",
+    "manager_name": "Cassandra Mason",
+    "department_id": "DEPT-001",
+    "email": "manager33@example.test"
+  },
+  {
+    "manager_id": "MGR-0034",
+    "manager_name": "Edgar Hernandez",
+    "department_id": "DEPT-002",
+    "email": "manager34@example.test"
+  },
+  {
+    "manager_id": "MGR-0035",
+    "manager_name": "Amanda Bowman DVM",
+    "department_id": "DEPT-003",
+    "email": "manager35@example.test"
+  },
+  {
+    "manager_id": "MGR-0036",
+    "manager_name": "Melissa Adams",
+    "department_id": "DEPT-004",
+    "email": "manager36@example.test"
+  },
+  {
+    "manager_id": "MGR-0037",
+    "manager_name": "Olivia Dixon DVM",
+    "department_id": "DEPT-005",
+    "email": "manager37@example.test"
+  },
+  {
+    "manager_id": "MGR-0038",
+    "manager_name": "Paul Gould",
+    "department_id": "DEPT-006",
+    "email": "manager38@example.test"
+  },
+  {
+    "manager_id": "MGR-0039",
+    "manager_name": "Timothy Hoffman",
+    "department_id": "DEPT-007",
+    "email": "manager39@example.test"
+  },
+  {
+    "manager_id": "MGR-0040",
+    "manager_name": "David Knight",
+    "department_id": "DEPT-008",
+    "email": "manager40@example.test"
+  },
+  {
+    "manager_id": "MGR-0041",
+    "manager_name": "Jeffrey Ray",
+    "department_id": "DEPT-001",
+    "email": "manager41@example.test"
+  },
+  {
+    "manager_id": "MGR-0042",
+    "manager_name": "Jared Drake",
+    "department_id": "DEPT-002",
+    "email": "manager42@example.test"
+  },
+  {
+    "manager_id": "MGR-0043",
+    "manager_name": "Shawn Lawson",
+    "department_id": "DEPT-003",
+    "email": "manager43@example.test"
+  },
+  {
+    "manager_id": "MGR-0044",
+    "manager_name": "Nicholas Ball",
+    "department_id": "DEPT-004",
+    "email": "manager44@example.test"
+  },
+  {
+    "manager_id": "MGR-0045",
+    "manager_name": "Joseph Brown",
+    "department_id": "DEPT-005",
+    "email": "manager45@example.test"
+  },
+  {
+    "manager_id": "MGR-0046",
+    "manager_name": "Brittany Henry",
+    "department_id": "DEPT-006",
+    "email": "manager46@example.test"
+  },
+  {
+    "manager_id": "MGR-0047",
+    "manager_name": "Jamie Brown",
+    "department_id": "DEPT-007",
+    "email": "manager47@example.test"
+  },
+  {
+    "manager_id": "MGR-0048",
+    "manager_name": "Kara Hickman",
+    "department_id": "DEPT-008",
+    "email": "manager48@example.test"
+  },
+  {
+    "manager_id": "MGR-0049",
+    "manager_name": "Jennifer Coleman",
+    "department_id": "DEPT-001",
+    "email": "manager49@example.test"
+  },
+  {
+    "manager_id": "MGR-0050",
+    "manager_name": "Patrick Cook",
+    "department_id": "DEPT-002",
+    "email": "manager50@example.test"
+  }
+]

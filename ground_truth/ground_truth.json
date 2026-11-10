@@ -1,0 +1,44 @@
+[
+  {
+    "anomaly_id": "ANOM-001",
+    "issue_type": "task_before_prerequisite",
+    "entity_id": "TASK-ONB-ONB-2026-000001-002",
+    "expected_detection": "Completed task has an incomplete prerequisite"
+  },
+  {
+    "anomaly_id": "ANOM-002",
+    "issue_type": "missing_manager",
+    "entity_id": "EMP-000002",
+    "expected_detection": "Employee manager is missing"
+  },
+  {
+    "anomaly_id": "ANOM-003",
+    "issue_type": "duplicate_asset_assignment",
+    "entity_id": "AST-LAP-000001",
+    "expected_detection": "Asset has overlapping active assignments"
+  },
+  {
+    "anomaly_id": "ANOM-004",
+    "issue_type": "start_before_background_check",
+    "entity_id": "EMP-000004",
+    "expected_detection": "Start date precedes background verification completion"
+  },
+  {
+    "anomaly_id": "ANOM-005",
+    "issue_type": "offboarding_active_access",
+    "entity_id": "EMP-000500",
+    "expected_detection": "Terminated employee retains approved access"
+  },
+  {
+    "anomaly_id": "ANOM-006",
+    "issue_type": "overdue_tasks",
+    "entity_id": "TASK-ONB-ONB-2026-000500-008",
+    "expected_detection": "Open task is past its due date"
+  },
+  {
+    "anomaly_id": "ANOM-007",
+    "issue_type": "mid_process_department_change",
+    "entity_id": "EMP-000005",
+    "expected_detection": "Department changed during active onboarding"
+  }
+]

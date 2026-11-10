@@ -1,0 +1,1829 @@
+[
+  {
+    "assignment_id": "ASSIGN-000001",
+    "asset_id": "AST-LAP-000001",
+    "employee_id": "EMP-000001",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000002",
+    "asset_id": "AST-MON-000002",
+    "employee_id": "EMP-000002",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000003",
+    "asset_id": "AST-PHO-000003",
+    "employee_id": "EMP-000003",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000004",
+    "asset_id": "AST-ACC-000004",
+    "employee_id": "EMP-000004",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000005",
+    "asset_id": "AST-LAP-000005",
+    "employee_id": "EMP-000005",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000006",
+    "asset_id": "AST-MON-000006",
+    "employee_id": "EMP-000006",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000007",
+    "asset_id": "AST-PHO-000007",
+    "employee_id": "EMP-000007",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000008",
+    "asset_id": "AST-ACC-000008",
+    "employee_id": "EMP-000008",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000009",
+    "asset_id": "AST-LAP-000009",
+    "employee_id": "EMP-000009",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000010",
+    "asset_id": "AST-MON-000010",
+    "employee_id": "EMP-000010",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000011",
+    "asset_id": "AST-PHO-000011",
+    "employee_id": "EMP-000011",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000012",
+    "asset_id": "AST-ACC-000012",
+    "employee_id": "EMP-000012",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000013",
+    "asset_id": "AST-LAP-000013",
+    "employee_id": "EMP-000013",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000014",
+    "asset_id": "AST-MON-000014",
+    "employee_id": "EMP-000014",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000015",
+    "asset_id": "AST-PHO-000015",
+    "employee_id": "EMP-000015",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000016",
+    "asset_id": "AST-ACC-000016",
+    "employee_id": "EMP-000016",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000017",
+    "asset_id": "AST-LAP-000017",
+    "employee_id": "EMP-000017",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000018",
+    "asset_id": "AST-MON-000018",
+    "employee_id": "EMP-000018",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000019",
+    "asset_id": "AST-PHO-000019",
+    "employee_id": "EMP-000019",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000020",
+    "asset_id": "AST-ACC-000020",
+    "employee_id": "EMP-000020",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000021",
+    "asset_id": "AST-LAP-000021",
+    "employee_id": "EMP-000021",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000022",
+    "asset_id": "AST-MON-000022",
+    "employee_id": "EMP-000022",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000023",
+    "asset_id": "AST-PHO-000023",
+    "employee_id": "EMP-000023",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000024",
+    "asset_id": "AST-ACC-000024",
+    "employee_id": "EMP-000024",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000025",
+    "asset_id": "AST-LAP-000025",
+    "employee_id": "EMP-000025",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000026",
+    "asset_id": "AST-MON-000026",
+    "employee_id": "EMP-000026",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000027",
+    "asset_id": "AST-PHO-000027",
+    "employee_id": "EMP-000027",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000028",
+    "asset_id": "AST-ACC-000028",
+    "employee_id": "EMP-000028",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000029",
+    "asset_id": "AST-LAP-000029",
+    "employee_id": "EMP-000029",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000030",
+    "asset_id": "AST-MON-000030",
+    "employee_id": "EMP-000030",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000031",
+    "asset_id": "AST-PHO-000031",
+    "employee_id": "EMP-000031",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000032",
+    "asset_id": "AST-ACC-000032",
+    "employee_id": "EMP-000032",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000033",
+    "asset_id": "AST-LAP-000033",
+    "employee_id": "EMP-000033",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000034",
+    "asset_id": "AST-MON-000034",
+    "employee_id": "EMP-000034",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000035",
+    "asset_id": "AST-PHO-000035",
+    "employee_id": "EMP-000035",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000036",
+    "asset_id": "AST-ACC-000036",
+    "employee_id": "EMP-000036",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000037",
+    "asset_id": "AST-LAP-000037",
+    "employee_id": "EMP-000037",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000038",
+    "asset_id": "AST-MON-000038",
+    "employee_id": "EMP-000038",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000039",
+    "asset_id": "AST-PHO-000039",
+    "employee_id": "EMP-000039",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000040",
+    "asset_id": "AST-ACC-000040",
+    "employee_id": "EMP-000040",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000041",
+    "asset_id": "AST-LAP-000041",
+    "employee_id": "EMP-000041",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000042",
+    "asset_id": "AST-MON-000042",
+    "employee_id": "EMP-000042",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000043",
+    "asset_id": "AST-PHO-000043",
+    "employee_id": "EMP-000043",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000044",
+    "asset_id": "AST-ACC-000044",
+    "employee_id": "EMP-000044",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000045",
+    "asset_id": "AST-LAP-000045",
+    "employee_id": "EMP-000045",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000046",
+    "asset_id": "AST-MON-000046",
+    "employee_id": "EMP-000046",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000047",
+    "asset_id": "AST-PHO-000047",
+    "employee_id": "EMP-000047",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000048",
+    "asset_id": "AST-ACC-000048",
+    "employee_id": "EMP-000048",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000049",
+    "asset_id": "AST-LAP-000049",
+    "employee_id": "EMP-000049",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000050",
+    "asset_id": "AST-MON-000050",
+    "employee_id": "EMP-000050",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000051",
+    "asset_id": "AST-PHO-000051",
+    "employee_id": "EMP-000051",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000052",
+    "asset_id": "AST-ACC-000052",
+    "employee_id": "EMP-000052",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000053",
+    "asset_id": "AST-LAP-000053",
+    "employee_id": "EMP-000053",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000054",
+    "asset_id": "AST-MON-000054",
+    "employee_id": "EMP-000054",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000055",
+    "asset_id": "AST-PHO-000055",
+    "employee_id": "EMP-000055",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000056",
+    "asset_id": "AST-ACC-000056",
+    "employee_id": "EMP-000056",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000057",
+    "asset_id": "AST-LAP-000057",
+    "employee_id": "EMP-000057",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000058",
+    "asset_id": "AST-MON-000058",
+    "employee_id": "EMP-000058",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000059",
+    "asset_id": "AST-PHO-000059",
+    "employee_id": "EMP-000059",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000060",
+    "asset_id": "AST-ACC-000060",
+    "employee_id": "EMP-000060",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000061",
+    "asset_id": "AST-LAP-000061",
+    "employee_id": "EMP-000061",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000062",
+    "asset_id": "AST-MON-000062",
+    "employee_id": "EMP-000062",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000063",
+    "asset_id": "AST-PHO-000063",
+    "employee_id": "EMP-000063",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000064",
+    "asset_id": "AST-ACC-000064",
+    "employee_id": "EMP-000064",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000065",
+    "asset_id": "AST-LAP-000065",
+    "employee_id": "EMP-000065",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000066",
+    "asset_id": "AST-MON-000066",
+    "employee_id": "EMP-000066",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000067",
+    "asset_id": "AST-PHO-000067",
+    "employee_id": "EMP-000067",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000068",
+    "asset_id": "AST-ACC-000068",
+    "employee_id": "EMP-000068",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000069",
+    "asset_id": "AST-LAP-000069",
+    "employee_id": "EMP-000069",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000070",
+    "asset_id": "AST-MON-000070",
+    "employee_id": "EMP-000070",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000071",
+    "asset_id": "AST-PHO-000071",
+    "employee_id": "EMP-000071",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000072",
+    "asset_id": "AST-ACC-000072",
+    "employee_id": "EMP-000072",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000073",
+    "asset_id": "AST-LAP-000073",
+    "employee_id": "EMP-000073",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000074",
+    "asset_id": "AST-MON-000074",
+    "employee_id": "EMP-000074",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000075",
+    "asset_id": "AST-PHO-000075",
+    "employee_id": "EMP-000075",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000076",
+    "asset_id": "AST-ACC-000076",
+    "employee_id": "EMP-000076",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000077",
+    "asset_id": "AST-LAP-000077",
+    "employee_id": "EMP-000077",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000078",
+    "asset_id": "AST-MON-000078",
+    "employee_id": "EMP-000078",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000079",
+    "asset_id": "AST-PHO-000079",
+    "employee_id": "EMP-000079",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000080",
+    "asset_id": "AST-ACC-000080",
+    "employee_id": "EMP-000080",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000081",
+    "asset_id": "AST-LAP-000081",
+    "employee_id": "EMP-000081",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000082",
+    "asset_id": "AST-MON-000082",
+    "employee_id": "EMP-000082",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000083",
+    "asset_id": "AST-PHO-000083",
+    "employee_id": "EMP-000083",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000084",
+    "asset_id": "AST-ACC-000084",
+    "employee_id": "EMP-000084",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000085",
+    "asset_id": "AST-LAP-000085",
+    "employee_id": "EMP-000085",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000086",
+    "asset_id": "AST-MON-000086",
+    "employee_id": "EMP-000086",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000087",
+    "asset_id": "AST-PHO-000087",
+    "employee_id": "EMP-000087",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000088",
+    "asset_id": "AST-ACC-000088",
+    "employee_id": "EMP-000088",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000089",
+    "asset_id": "AST-LAP-000089",
+    "employee_id": "EMP-000089",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000090",
+    "asset_id": "AST-MON-000090",
+    "employee_id": "EMP-000090",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000091",
+    "asset_id": "AST-PHO-000091",
+    "employee_id": "EMP-000091",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000092",
+    "asset_id": "AST-ACC-000092",
+    "employee_id": "EMP-000092",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000093",
+    "asset_id": "AST-LAP-000093",
+    "employee_id": "EMP-000093",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000094",
+    "asset_id": "AST-MON-000094",
+    "employee_id": "EMP-000094",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000095",
+    "asset_id": "AST-PHO-000095",
+    "employee_id": "EMP-000095",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000096",
+    "asset_id": "AST-ACC-000096",
+    "employee_id": "EMP-000096",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000097",
+    "asset_id": "AST-LAP-000097",
+    "employee_id": "EMP-000097",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000098",
+    "asset_id": "AST-MON-000098",
+    "employee_id": "EMP-000098",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000099",
+    "asset_id": "AST-PHO-000099",
+    "employee_id": "EMP-000099",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000100",
+    "asset_id": "AST-ACC-000100",
+    "employee_id": "EMP-000100",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000101",
+    "asset_id": "AST-LAP-000101",
+    "employee_id": "EMP-000101",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000102",
+    "asset_id": "AST-MON-000102",
+    "employee_id": "EMP-000102",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000103",
+    "asset_id": "AST-PHO-000103",
+    "employee_id": "EMP-000103",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000104",
+    "asset_id": "AST-ACC-000104",
+    "employee_id": "EMP-000104",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000105",
+    "asset_id": "AST-LAP-000105",
+    "employee_id": "EMP-000105",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000106",
+    "asset_id": "AST-MON-000106",
+    "employee_id": "EMP-000106",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000107",
+    "asset_id": "AST-PHO-000107",
+    "employee_id": "EMP-000107",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000108",
+    "asset_id": "AST-ACC-000108",
+    "employee_id": "EMP-000108",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000109",
+    "asset_id": "AST-LAP-000109",
+    "employee_id": "EMP-000109",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000110",
+    "asset_id": "AST-MON-000110",
+    "employee_id": "EMP-000110",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000111",
+    "asset_id": "AST-PHO-000111",
+    "employee_id": "EMP-000111",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000112",
+    "asset_id": "AST-ACC-000112",
+    "employee_id": "EMP-000112",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000113",
+    "asset_id": "AST-LAP-000113",
+    "employee_id": "EMP-000113",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000114",
+    "asset_id": "AST-MON-000114",
+    "employee_id": "EMP-000114",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000115",
+    "asset_id": "AST-PHO-000115",
+    "employee_id": "EMP-000115",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000116",
+    "asset_id": "AST-ACC-000116",
+    "employee_id": "EMP-000116",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000117",
+    "asset_id": "AST-LAP-000117",
+    "employee_id": "EMP-000117",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000118",
+    "asset_id": "AST-MON-000118",
+    "employee_id": "EMP-000118",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000119",
+    "asset_id": "AST-PHO-000119",
+    "employee_id": "EMP-000119",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000120",
+    "asset_id": "AST-ACC-000120",
+    "employee_id": "EMP-000120",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000121",
+    "asset_id": "AST-LAP-000121",
+    "employee_id": "EMP-000121",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000122",
+    "asset_id": "AST-MON-000122",
+    "employee_id": "EMP-000122",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000123",
+    "asset_id": "AST-PHO-000123",
+    "employee_id": "EMP-000123",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000124",
+    "asset_id": "AST-ACC-000124",
+    "employee_id": "EMP-000124",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000125",
+    "asset_id": "AST-LAP-000125",
+    "employee_id": "EMP-000125",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000126",
+    "asset_id": "AST-MON-000126",
+    "employee_id": "EMP-000126",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000127",
+    "asset_id": "AST-PHO-000127",
+    "employee_id": "EMP-000127",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000128",
+    "asset_id": "AST-ACC-000128",
+    "employee_id": "EMP-000128",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000129",
+    "asset_id": "AST-LAP-000129",
+    "employee_id": "EMP-000129",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000130",
+    "asset_id": "AST-MON-000130",
+    "employee_id": "EMP-000130",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000131",
+    "asset_id": "AST-PHO-000131",
+    "employee_id": "EMP-000131",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000132",
+    "asset_id": "AST-ACC-000132",
+    "employee_id": "EMP-000132",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000133",
+    "asset_id": "AST-LAP-000133",
+    "employee_id": "EMP-000133",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000134",
+    "asset_id": "AST-MON-000134",
+    "employee_id": "EMP-000134",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000135",
+    "asset_id": "AST-PHO-000135",
+    "employee_id": "EMP-000135",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000136",
+    "asset_id": "AST-ACC-000136",
+    "employee_id": "EMP-000136",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000137",
+    "asset_id": "AST-LAP-000137",
+    "employee_id": "EMP-000137",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000138",
+    "asset_id": "AST-MON-000138",
+    "employee_id": "EMP-000138",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000139",
+    "asset_id": "AST-PHO-000139",
+    "employee_id": "EMP-000139",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000140",
+    "asset_id": "AST-ACC-000140",
+    "employee_id": "EMP-000140",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000141",
+    "asset_id": "AST-LAP-000141",
+    "employee_id": "EMP-000141",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000142",
+    "asset_id": "AST-MON-000142",
+    "employee_id": "EMP-000142",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000143",
+    "asset_id": "AST-PHO-000143",
+    "employee_id": "EMP-000143",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000144",
+    "asset_id": "AST-ACC-000144",
+    "employee_id": "EMP-000144",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000145",
+    "asset_id": "AST-LAP-000145",
+    "employee_id": "EMP-000145",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000146",
+    "asset_id": "AST-MON-000146",
+    "employee_id": "EMP-000146",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000147",
+    "asset_id": "AST-PHO-000147",
+    "employee_id": "EMP-000147",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000148",
+    "asset_id": "AST-ACC-000148",
+    "employee_id": "EMP-000148",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000149",
+    "asset_id": "AST-LAP-000149",
+    "employee_id": "EMP-000149",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000150",
+    "asset_id": "AST-MON-000150",
+    "employee_id": "EMP-000150",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000151",
+    "asset_id": "AST-PHO-000151",
+    "employee_id": "EMP-000151",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000152",
+    "asset_id": "AST-ACC-000152",
+    "employee_id": "EMP-000152",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000153",
+    "asset_id": "AST-LAP-000153",
+    "employee_id": "EMP-000153",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000154",
+    "asset_id": "AST-MON-000154",
+    "employee_id": "EMP-000154",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000155",
+    "asset_id": "AST-PHO-000155",
+    "employee_id": "EMP-000155",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000156",
+    "asset_id": "AST-ACC-000156",
+    "employee_id": "EMP-000156",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000157",
+    "asset_id": "AST-LAP-000157",
+    "employee_id": "EMP-000157",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000158",
+    "asset_id": "AST-MON-000158",
+    "employee_id": "EMP-000158",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000159",
+    "asset_id": "AST-PHO-000159",
+    "employee_id": "EMP-000159",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000160",
+    "asset_id": "AST-ACC-000160",
+    "employee_id": "EMP-000160",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000161",
+    "asset_id": "AST-LAP-000161",
+    "employee_id": "EMP-000161",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000162",
+    "asset_id": "AST-MON-000162",
+    "employee_id": "EMP-000162",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000163",
+    "asset_id": "AST-PHO-000163",
+    "employee_id": "EMP-000163",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000164",
+    "asset_id": "AST-ACC-000164",
+    "employee_id": "EMP-000164",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000165",
+    "asset_id": "AST-LAP-000165",
+    "employee_id": "EMP-000165",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000166",
+    "asset_id": "AST-MON-000166",
+    "employee_id": "EMP-000166",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000167",
+    "asset_id": "AST-PHO-000167",
+    "employee_id": "EMP-000167",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000168",
+    "asset_id": "AST-ACC-000168",
+    "employee_id": "EMP-000168",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000169",
+    "asset_id": "AST-LAP-000169",
+    "employee_id": "EMP-000169",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000170",
+    "asset_id": "AST-MON-000170",
+    "employee_id": "EMP-000170",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000171",
+    "asset_id": "AST-PHO-000171",
+    "employee_id": "EMP-000171",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000172",
+    "asset_id": "AST-ACC-000172",
+    "employee_id": "EMP-000172",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000173",
+    "asset_id": "AST-LAP-000173",
+    "employee_id": "EMP-000173",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000174",
+    "asset_id": "AST-MON-000174",
+    "employee_id": "EMP-000174",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000175",
+    "asset_id": "AST-PHO-000175",
+    "employee_id": "EMP-000175",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000176",
+    "asset_id": "AST-ACC-000176",
+    "employee_id": "EMP-000176",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000177",
+    "asset_id": "AST-LAP-000177",
+    "employee_id": "EMP-000177",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000178",
+    "asset_id": "AST-MON-000178",
+    "employee_id": "EMP-000178",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000179",
+    "asset_id": "AST-PHO-000179",
+    "employee_id": "EMP-000179",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000180",
+    "asset_id": "AST-ACC-000180",
+    "employee_id": "EMP-000180",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000181",
+    "asset_id": "AST-LAP-000181",
+    "employee_id": "EMP-000181",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000182",
+    "asset_id": "AST-MON-000182",
+    "employee_id": "EMP-000182",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000183",
+    "asset_id": "AST-PHO-000183",
+    "employee_id": "EMP-000183",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000184",
+    "asset_id": "AST-ACC-000184",
+    "employee_id": "EMP-000184",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000185",
+    "asset_id": "AST-LAP-000185",
+    "employee_id": "EMP-000185",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000186",
+    "asset_id": "AST-MON-000186",
+    "employee_id": "EMP-000186",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000187",
+    "asset_id": "AST-PHO-000187",
+    "employee_id": "EMP-000187",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000188",
+    "asset_id": "AST-ACC-000188",
+    "employee_id": "EMP-000188",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000189",
+    "asset_id": "AST-LAP-000189",
+    "employee_id": "EMP-000189",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000190",
+    "asset_id": "AST-MON-000190",
+    "employee_id": "EMP-000190",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000191",
+    "asset_id": "AST-PHO-000191",
+    "employee_id": "EMP-000191",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000192",
+    "asset_id": "AST-ACC-000192",
+    "employee_id": "EMP-000192",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000193",
+    "asset_id": "AST-LAP-000193",
+    "employee_id": "EMP-000193",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000194",
+    "asset_id": "AST-MON-000194",
+    "employee_id": "EMP-000194",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000195",
+    "asset_id": "AST-PHO-000195",
+    "employee_id": "EMP-000195",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000196",
+    "asset_id": "AST-ACC-000196",
+    "employee_id": "EMP-000196",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000197",
+    "asset_id": "AST-LAP-000197",
+    "employee_id": "EMP-000197",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000198",
+    "asset_id": "AST-MON-000198",
+    "employee_id": "EMP-000198",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000199",
+    "asset_id": "AST-PHO-000199",
+    "employee_id": "EMP-000199",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000200",
+    "asset_id": "AST-ACC-000200",
+    "employee_id": "EMP-000200",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000201",
+    "asset_id": "AST-LAP-000201",
+    "employee_id": "EMP-000201",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000202",
+    "asset_id": "AST-MON-000202",
+    "employee_id": "EMP-000202",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000203",
+    "asset_id": "AST-PHO-000203",
+    "employee_id": "EMP-000203",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000204",
+    "asset_id": "AST-ACC-000204",
+    "employee_id": "EMP-000204",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000205",
+    "asset_id": "AST-LAP-000205",
+    "employee_id": "EMP-000205",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000206",
+    "asset_id": "AST-MON-000206",
+    "employee_id": "EMP-000206",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000207",
+    "asset_id": "AST-PHO-000207",
+    "employee_id": "EMP-000207",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000208",
+    "asset_id": "AST-ACC-000208",
+    "employee_id": "EMP-000208",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000209",
+    "asset_id": "AST-LAP-000209",
+    "employee_id": "EMP-000209",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000210",
+    "asset_id": "AST-MON-000210",
+    "employee_id": "EMP-000210",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000211",
+    "asset_id": "AST-PHO-000211",
+    "employee_id": "EMP-000211",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000212",
+    "asset_id": "AST-ACC-000212",
+    "employee_id": "EMP-000212",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000213",
+    "asset_id": "AST-LAP-000213",
+    "employee_id": "EMP-000213",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000214",
+    "asset_id": "AST-MON-000214",
+    "employee_id": "EMP-000214",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000215",
+    "asset_id": "AST-PHO-000215",
+    "employee_id": "EMP-000215",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000216",
+    "asset_id": "AST-ACC-000216",
+    "employee_id": "EMP-000216",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000217",
+    "asset_id": "AST-LAP-000217",
+    "employee_id": "EMP-000217",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000218",
+    "asset_id": "AST-MON-000218",
+    "employee_id": "EMP-000218",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000219",
+    "asset_id": "AST-PHO-000219",
+    "employee_id": "EMP-000219",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000220",
+    "asset_id": "AST-ACC-000220",
+    "employee_id": "EMP-000220",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000221",
+    "asset_id": "AST-LAP-000221",
+    "employee_id": "EMP-000221",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000222",
+    "asset_id": "AST-MON-000222",
+    "employee_id": "EMP-000222",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000223",
+    "asset_id": "AST-PHO-000223",
+    "employee_id": "EMP-000223",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000224",
+    "asset_id": "AST-ACC-000224",
+    "employee_id": "EMP-000224",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000225",
+    "asset_id": "AST-LAP-000225",
+    "employee_id": "EMP-000225",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000226",
+    "asset_id": "AST-MON-000226",
+    "employee_id": "EMP-000226",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000227",
+    "asset_id": "AST-PHO-000227",
+    "employee_id": "EMP-000227",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000228",
+    "asset_id": "AST-ACC-000228",
+    "employee_id": "EMP-000228",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000229",
+    "asset_id": "AST-LAP-000229",
+    "employee_id": "EMP-000229",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000230",
+    "asset_id": "AST-MON-000230",
+    "employee_id": "EMP-000230",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000231",
+    "asset_id": "AST-PHO-000231",
+    "employee_id": "EMP-000231",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000232",
+    "asset_id": "AST-ACC-000232",
+    "employee_id": "EMP-000232",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000233",
+    "asset_id": "AST-LAP-000233",
+    "employee_id": "EMP-000233",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000234",
+    "asset_id": "AST-MON-000234",
+    "employee_id": "EMP-000234",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000235",
+    "asset_id": "AST-PHO-000235",
+    "employee_id": "EMP-000235",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000236",
+    "asset_id": "AST-ACC-000236",
+    "employee_id": "EMP-000236",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000237",
+    "asset_id": "AST-LAP-000237",
+    "employee_id": "EMP-000237",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000238",
+    "asset_id": "AST-MON-000238",
+    "employee_id": "EMP-000238",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000239",
+    "asset_id": "AST-PHO-000239",
+    "employee_id": "EMP-000239",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000240",
+    "asset_id": "AST-ACC-000240",
+    "employee_id": "EMP-000240",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000241",
+    "asset_id": "AST-LAP-000241",
+    "employee_id": "EMP-000241",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000242",
+    "asset_id": "AST-MON-000242",
+    "employee_id": "EMP-000242",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000243",
+    "asset_id": "AST-PHO-000243",
+    "employee_id": "EMP-000243",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000244",
+    "asset_id": "AST-ACC-000244",
+    "employee_id": "EMP-000244",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000245",
+    "asset_id": "AST-LAP-000245",
+    "employee_id": "EMP-000245",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000246",
+    "asset_id": "AST-MON-000246",
+    "employee_id": "EMP-000246",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000247",
+    "asset_id": "AST-PHO-000247",
+    "employee_id": "EMP-000247",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000248",
+    "asset_id": "AST-ACC-000248",
+    "employee_id": "EMP-000248",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000249",
+    "asset_id": "AST-LAP-000249",
+    "employee_id": "EMP-000249",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000250",
+    "asset_id": "AST-MON-000250",
+    "employee_id": "EMP-000250",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  },
+  {
+    "assignment_id": "ASSIGN-000251",
+    "asset_id": "AST-PHO-000251",
+    "employee_id": "EMP-000500",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000252",
+    "asset_id": "AST-ACC-000252",
+    "employee_id": "EMP-000499",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000253",
+    "asset_id": "AST-LAP-000253",
+    "employee_id": "EMP-000498",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000254",
+    "asset_id": "AST-MON-000254",
+    "employee_id": "EMP-000497",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000255",
+    "asset_id": "AST-PHO-000255",
+    "employee_id": "EMP-000496",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000256",
+    "asset_id": "AST-ACC-000256",
+    "employee_id": "EMP-000495",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000257",
+    "asset_id": "AST-LAP-000257",
+    "employee_id": "EMP-000494",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000258",
+    "asset_id": "AST-MON-000258",
+    "employee_id": "EMP-000493",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000259",
+    "asset_id": "AST-PHO-000259",
+    "employee_id": "EMP-000492",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-000260",
+    "asset_id": "AST-ACC-000260",
+    "employee_id": "EMP-000491",
+    "assigned_date": "2026-10-11",
+    "returned_date": "2026-11-10"
+  },
+  {
+    "assignment_id": "ASSIGN-ANOM-001",
+    "asset_id": "AST-LAP-000001",
+    "employee_id": "EMP-000003",
+    "assigned_date": "2026-11-10",
+    "returned_date": ""
+  }
+]

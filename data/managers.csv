@@ -1,0 +1,51 @@
+manager_id,manager_name,department_id,email
+MGR-0001,Lauren Nash,DEPT-001,manager1@example.test
+MGR-0002,Rodney Hall,DEPT-002,manager2@example.test
+MGR-0003,Roger Anderson,DEPT-003,manager3@example.test
+MGR-0004,Eric Miles,DEPT-004,manager4@example.test
+MGR-0005,Ashley Lee,DEPT-005,manager5@example.test
+MGR-0006,Brian Garza,DEPT-006,manager6@example.test
+MGR-0007,Brian Thomas,DEPT-007,manager7@example.test
+MGR-0008,Anthony Bass,DEPT-008,manager8@example.test
+MGR-0009,Jim Sexton,DEPT-001,manager9@example.test
+MGR-0010,Kayla Palmer,DEPT-002,manager10@example.test
+MGR-0011,Christopher Gilbert,DEPT-003,manager11@example.test
+MGR-0012,Brandon Bryant,DEPT-004,manager12@example.test
+MGR-0013,Amber Nash,DEPT-005,manager13@example.test
+MGR-0014,Christine Brown,DEPT-006,manager14@example.test
+MGR-0015,Brendan Wagner,DEPT-007,manager15@example.test
+MGR-0016,Benjamin Robinson,DEPT-008,manager16@example.test
+MGR-0017,Karen Jones DDS,DEPT-001,manager17@example.test
+MGR-0018,Holly Wise,DEPT-002,manager18@example.test
+MGR-0019,Wendy Smith,DEPT-003,manager19@example.test
+MGR-0020,Mr. Allen Fletcher,DEPT-004,manager20@example.test
+MGR-0021,Jose Rodgers,DEPT-005,manager21@example.test
+MGR-0022,Monique Vincent,DEPT-006,manager22@example.test
+MGR-0023,Ryan Wilson,DEPT-007,manager23@example.test
+MGR-0024,Lauren Williams,DEPT-008,manager24@example.test
+MGR-0025,Jonathan Smith,DEPT-001,manager25@example.test
+MGR-0026,Jessica Stevens,DEPT-002,manager26@example.test
+MGR-0027,Curtis Odom,DEPT-003,manager27@example.test
+MGR-0028,Lindsey Vance,DEPT-004,manager28@example.test
+MGR-0029,Molly Frost,DEPT-005,manager29@example.test
+MGR-0030,Matthew Scott,DEPT-006,manager30@example.test
+MGR-0031,Jennifer Robles,DEPT-007,manager31@example.test
+MGR-0032,Heather Navarro,DEPT-008,manager32@example.test
+MGR-0033,Cassandra Mason,DEPT-001,manager33@example.test
+MGR-0034,Edgar Hernandez,DEPT-002,manager34@example.test
+MGR-0035,Amanda Bowman DVM,DEPT-003,manager35@example.test
+MGR-0036,Melissa Adams,DEPT-004,manager36@example.test
+MGR-0037,Olivia Dixon DVM,DEPT-005,manager37@example.test
+MGR-0038,Paul Gould,DEPT-006,manager38@example.test
+MGR-0039,Timothy Hoffman,DEPT-007,manager39@example.test
+MGR-0040,David Knight,DEPT-008,manager40@example.test
+MGR-0041,Jeffrey Ray,DEPT-001,manager41@example.test
+MGR-0042,Jared Drake,DEPT-002,manager42@example.test
+MGR-0043,Shawn Lawson,DEPT-003,manager43@example.test
+MGR-0044,Nicholas Ball,DEPT-004,manager44@example.test
+MGR-0045,Joseph Brown,DEPT-005,manager45@example.test
+MGR-0046,Brittany Henry,DEPT-006,manager46@example.test
+MGR-0047,Jamie Brown,DEPT-007,manager47@example.test
+MGR-0048,Kara Hickman,DEPT-008,manager48@example.test
+MGR-0049,Jennifer Coleman,DEPT-001,manager49@example.test
+MGR-0050,Patrick Cook,DEPT-002,manager50@example.test

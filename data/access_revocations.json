@@ -1,0 +1,65 @@
+[
+  {
+    "revocation_id": "REVOKE-000001",
+    "request_id": "ACCREQ-2026-000292",
+    "employee_id": "EMP-000499",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000002",
+    "request_id": "ACCREQ-2026-000293",
+    "employee_id": "EMP-000498",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000003",
+    "request_id": "ACCREQ-2026-000294",
+    "employee_id": "EMP-000497",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000004",
+    "request_id": "ACCREQ-2026-000295",
+    "employee_id": "EMP-000496",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000005",
+    "request_id": "ACCREQ-2026-000296",
+    "employee_id": "EMP-000495",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000006",
+    "request_id": "ACCREQ-2026-000297",
+    "employee_id": "EMP-000494",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000007",
+    "request_id": "ACCREQ-2026-000298",
+    "employee_id": "EMP-000493",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000008",
+    "request_id": "ACCREQ-2026-000299",
+    "employee_id": "EMP-000492",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  },
+  {
+    "revocation_id": "REVOKE-000009",
+    "request_id": "ACCREQ-2026-000300",
+    "employee_id": "EMP-000491",
+    "revoked_date": "2026-11-10",
+    "reason": "Employee offboarding"
+  }
+]

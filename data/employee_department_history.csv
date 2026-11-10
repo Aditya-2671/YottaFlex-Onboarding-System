@@ -1,0 +1,2 @@
+history_id,employee_id,old_department_id,new_department_id,effective_date
+DEPT-HIST-ANOM-001,EMP-000005,DEPT-002,DEPT-001,2026-11-10

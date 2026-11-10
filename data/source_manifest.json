@@ -1,0 +1,8 @@
+{
+  "generator": "src/generator.py",
+  "seed": 20261022,
+  "as_of_date": "2026-11-10",
+  "data_kind": "synthetic",
+  "external_sources": [],
+  "note": "All people and records are fictional synthetic data."
+}

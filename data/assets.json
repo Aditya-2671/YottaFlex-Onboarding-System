@@ -1,0 +1,3602 @@
+[
+  {
+    "asset_id": "AST-LAP-000001",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000001",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000002",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000002",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000003",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000003",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000004",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000004",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000005",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000005",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000006",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000006",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000007",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000007",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000008",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000008",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000009",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000009",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000010",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000010",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000011",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000011",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000012",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000012",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000013",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000013",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000014",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000014",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000015",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000015",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000016",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000016",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000017",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000017",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000018",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000018",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000019",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000019",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000020",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000020",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000021",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000021",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000022",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000022",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000023",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000023",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000024",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000024",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000025",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000025",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000026",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000026",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000027",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000027",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000028",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000028",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000029",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000029",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000030",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000030",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000031",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000031",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000032",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000032",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000033",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000033",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000034",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000034",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000035",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000035",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000036",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000036",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000037",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000037",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000038",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000038",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000039",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000039",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000040",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000040",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000041",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000041",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000042",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000042",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000043",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000043",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000044",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000044",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000045",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000045",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000046",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000046",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000047",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000047",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000048",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000048",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000049",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000049",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000050",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000050",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000051",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000051",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000052",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000052",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000053",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000053",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000054",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000054",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000055",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000055",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000056",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000056",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000057",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000057",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000058",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000058",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000059",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000059",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000060",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000060",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000061",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000061",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000062",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000062",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000063",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000063",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000064",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000064",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000065",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000065",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000066",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000066",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000067",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000067",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000068",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000068",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000069",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000069",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000070",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000070",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000071",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000071",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000072",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000072",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000073",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000073",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000074",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000074",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000075",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000075",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000076",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000076",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000077",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000077",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000078",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000078",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000079",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000079",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000080",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000080",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000081",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000081",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000082",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000082",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000083",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000083",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000084",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000084",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000085",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000085",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000086",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000086",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000087",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000087",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000088",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000088",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000089",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000089",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000090",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000090",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000091",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000091",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000092",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000092",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000093",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000093",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000094",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000094",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000095",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000095",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000096",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000096",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000097",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000097",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000098",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000098",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000099",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000099",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000100",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000100",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000101",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000101",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000102",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000102",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000103",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000103",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000104",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000104",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000105",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000105",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000106",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000106",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000107",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000107",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000108",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000108",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000109",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000109",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000110",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000110",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000111",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000111",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000112",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000112",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000113",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000113",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000114",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000114",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000115",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000115",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000116",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000116",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000117",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000117",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000118",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000118",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000119",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000119",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000120",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000120",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000121",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000121",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000122",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000122",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000123",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000123",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000124",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000124",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000125",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000125",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000126",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000126",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000127",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000127",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000128",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000128",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000129",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000129",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000130",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000130",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000131",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000131",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000132",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000132",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000133",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000133",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000134",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000134",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000135",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000135",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000136",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000136",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000137",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000137",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000138",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000138",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000139",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000139",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000140",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000140",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000141",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000141",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000142",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000142",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000143",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000143",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000144",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000144",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000145",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000145",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000146",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000146",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000147",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000147",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000148",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000148",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000149",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000149",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000150",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000150",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000151",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000151",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000152",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000152",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000153",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000153",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000154",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000154",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000155",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000155",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000156",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000156",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000157",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000157",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000158",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000158",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000159",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000159",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000160",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000160",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000161",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000161",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000162",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000162",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000163",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000163",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000164",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000164",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000165",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000165",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000166",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000166",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000167",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000167",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000168",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000168",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000169",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000169",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000170",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000170",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000171",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000171",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000172",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000172",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000173",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000173",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000174",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000174",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000175",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000175",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000176",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000176",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000177",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000177",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000178",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000178",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000179",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000179",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000180",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000180",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000181",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000181",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000182",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000182",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000183",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000183",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000184",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000184",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000185",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000185",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000186",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000186",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000187",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000187",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000188",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000188",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000189",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000189",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000190",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000190",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000191",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000191",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000192",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000192",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000193",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000193",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000194",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000194",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000195",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000195",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000196",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000196",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000197",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000197",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000198",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000198",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000199",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000199",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000200",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000200",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000201",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000201",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000202",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000202",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000203",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000203",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000204",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000204",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000205",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000205",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000206",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000206",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000207",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000207",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000208",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000208",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000209",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000209",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000210",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000210",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000211",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000211",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000212",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000212",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000213",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000213",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000214",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000214",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000215",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000215",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000216",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000216",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000217",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000217",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000218",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000218",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000219",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000219",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000220",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000220",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000221",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000221",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000222",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000222",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000223",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000223",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000224",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000224",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000225",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000225",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000226",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000226",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000227",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000227",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000228",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000228",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000229",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000229",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000230",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000230",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000231",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000231",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000232",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000232",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000233",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000233",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000234",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000234",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000235",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000235",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000236",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000236",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000237",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000237",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000238",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000238",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000239",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000239",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000240",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000240",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000241",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000241",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000242",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000242",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000243",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000243",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000244",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000244",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000245",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000245",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000246",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000246",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000247",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000247",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-ACC-000248",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000248",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-LAP-000249",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000249",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-MON-000250",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000250",
+    "asset_status": "Assigned"
+  },
+  {
+    "asset_id": "AST-PHO-000251",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000251",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000252",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000252",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000253",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000253",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000254",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000254",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000255",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000255",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000256",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000256",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000257",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000257",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000258",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000258",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000259",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000259",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000260",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000260",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000261",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000261",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000262",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000262",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000263",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000263",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000264",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000264",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000265",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000265",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000266",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000266",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000267",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000267",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000268",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000268",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000269",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000269",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000270",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000270",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000271",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000271",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000272",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000272",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000273",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000273",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000274",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000274",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000275",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000275",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000276",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000276",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000277",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000277",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000278",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000278",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000279",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000279",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000280",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000280",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000281",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000281",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000282",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000282",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000283",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000283",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000284",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000284",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000285",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000285",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000286",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000286",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000287",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000287",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000288",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000288",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000289",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000289",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000290",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000290",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000291",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000291",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000292",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000292",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000293",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000293",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000294",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000294",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000295",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000295",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000296",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000296",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000297",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000297",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000298",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000298",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000299",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000299",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000300",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000300",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000301",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000301",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000302",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000302",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000303",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000303",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000304",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000304",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000305",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000305",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000306",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000306",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000307",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000307",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000308",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000308",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000309",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000309",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000310",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000310",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000311",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000311",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000312",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000312",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000313",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000313",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000314",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000314",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000315",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000315",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000316",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000316",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000317",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000317",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000318",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000318",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000319",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000319",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000320",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000320",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000321",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000321",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000322",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000322",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000323",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000323",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000324",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000324",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000325",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000325",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000326",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000326",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000327",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000327",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000328",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000328",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000329",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000329",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000330",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000330",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000331",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000331",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000332",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000332",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000333",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000333",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000334",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000334",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000335",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000335",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000336",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000336",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000337",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000337",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000338",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000338",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000339",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000339",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000340",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000340",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000341",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000341",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000342",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000342",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000343",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000343",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000344",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000344",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000345",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000345",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000346",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000346",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000347",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000347",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000348",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000348",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000349",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000349",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000350",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000350",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000351",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000351",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000352",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000352",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000353",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000353",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000354",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000354",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000355",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000355",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000356",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000356",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000357",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000357",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000358",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000358",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000359",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000359",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000360",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000360",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000361",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000361",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000362",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000362",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000363",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000363",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000364",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000364",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000365",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000365",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000366",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000366",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000367",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000367",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000368",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000368",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000369",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000369",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000370",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000370",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000371",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000371",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000372",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000372",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000373",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000373",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000374",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000374",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000375",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000375",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000376",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000376",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000377",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000377",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000378",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000378",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000379",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000379",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000380",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000380",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000381",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000381",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000382",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000382",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000383",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000383",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000384",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000384",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000385",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000385",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000386",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000386",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000387",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000387",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000388",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000388",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000389",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000389",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000390",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000390",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000391",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000391",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000392",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000392",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000393",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000393",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000394",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000394",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000395",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000395",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000396",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000396",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000397",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000397",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000398",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000398",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000399",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000399",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000400",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000400",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000401",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000401",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000402",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000402",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000403",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000403",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000404",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000404",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000405",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000405",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000406",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000406",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000407",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000407",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000408",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000408",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000409",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000409",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000410",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000410",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000411",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000411",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000412",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000412",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000413",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000413",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000414",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000414",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000415",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000415",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000416",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000416",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000417",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000417",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000418",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000418",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000419",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000419",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000420",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000420",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000421",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000421",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000422",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000422",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000423",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000423",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000424",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000424",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000425",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000425",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000426",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000426",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000427",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000427",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000428",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000428",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000429",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000429",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000430",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000430",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000431",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000431",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000432",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000432",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000433",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000433",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000434",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000434",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000435",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000435",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000436",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000436",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000437",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000437",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000438",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000438",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000439",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000439",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000440",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000440",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000441",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000441",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000442",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000442",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000443",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000443",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000444",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000444",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000445",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000445",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000446",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000446",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000447",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000447",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000448",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000448",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000449",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000449",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000450",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000450",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000451",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000451",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000452",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000452",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000453",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000453",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000454",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000454",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000455",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000455",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000456",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000456",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000457",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000457",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000458",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000458",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000459",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000459",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000460",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000460",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000461",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000461",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000462",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000462",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000463",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000463",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000464",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000464",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000465",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000465",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000466",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000466",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000467",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000467",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000468",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000468",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000469",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000469",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000470",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000470",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000471",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000471",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000472",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000472",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000473",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000473",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000474",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000474",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000475",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000475",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000476",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000476",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000477",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000477",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000478",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000478",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000479",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000479",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000480",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000480",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000481",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000481",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000482",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000482",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000483",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000483",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000484",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000484",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000485",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000485",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000486",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000486",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000487",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000487",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000488",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000488",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000489",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000489",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000490",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000490",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000491",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000491",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000492",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000492",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000493",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000493",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000494",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000494",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000495",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000495",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000496",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000496",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000497",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000497",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000498",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000498",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000499",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000499",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000500",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000500",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000501",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000501",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000502",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000502",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000503",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000503",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000504",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000504",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000505",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000505",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000506",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000506",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000507",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000507",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000508",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000508",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000509",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000509",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000510",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000510",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000511",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000511",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000512",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000512",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000513",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000513",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000514",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000514",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000515",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000515",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000516",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000516",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000517",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000517",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000518",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000518",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000519",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000519",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000520",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000520",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000521",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000521",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000522",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000522",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000523",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000523",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000524",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000524",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000525",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000525",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000526",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000526",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000527",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000527",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000528",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000528",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000529",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000529",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000530",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000530",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000531",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000531",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000532",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000532",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000533",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000533",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000534",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000534",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000535",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000535",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000536",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000536",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000537",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000537",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000538",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000538",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000539",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000539",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000540",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000540",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000541",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000541",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000542",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000542",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000543",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000543",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000544",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000544",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000545",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000545",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000546",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000546",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000547",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000547",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000548",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000548",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000549",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000549",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000550",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000550",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000551",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000551",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000552",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000552",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000553",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000553",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000554",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000554",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000555",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000555",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000556",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000556",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000557",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000557",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000558",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000558",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000559",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000559",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000560",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000560",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000561",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000561",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000562",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000562",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000563",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000563",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000564",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000564",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000565",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000565",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000566",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000566",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000567",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000567",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000568",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000568",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000569",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000569",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000570",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000570",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000571",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000571",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000572",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000572",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000573",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000573",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000574",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000574",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000575",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000575",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000576",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000576",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000577",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000577",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000578",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000578",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000579",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000579",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000580",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000580",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000581",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000581",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000582",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000582",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000583",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000583",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000584",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000584",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000585",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000585",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000586",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000586",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000587",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000587",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000588",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000588",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000589",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000589",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000590",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000590",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000591",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000591",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000592",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000592",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000593",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000593",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000594",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000594",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000595",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000595",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000596",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000596",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-LAP-000597",
+    "asset_type": "Laptop",
+    "serial_number": "SERIAL-0000597",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-MON-000598",
+    "asset_type": "Monitor",
+    "serial_number": "SERIAL-0000598",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-PHO-000599",
+    "asset_type": "Phone",
+    "serial_number": "SERIAL-0000599",
+    "asset_status": "Available"
+  },
+  {
+    "asset_id": "AST-ACC-000600",
+    "asset_type": "Access Card",
+    "serial_number": "SERIAL-0000600",
+    "asset_status": "Available"
+  }
+]

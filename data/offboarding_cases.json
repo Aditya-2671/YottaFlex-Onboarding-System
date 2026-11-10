@@ -1,0 +1,62 @@
+[
+  {
+    "offboarding_id": "OFF-000001",
+    "employee_id": "EMP-000500",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000002",
+    "employee_id": "EMP-000499",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000003",
+    "employee_id": "EMP-000498",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000004",
+    "employee_id": "EMP-000497",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000005",
+    "employee_id": "EMP-000496",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000006",
+    "employee_id": "EMP-000495",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000007",
+    "employee_id": "EMP-000494",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000008",
+    "employee_id": "EMP-000493",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000009",
+    "employee_id": "EMP-000492",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  },
+  {
+    "offboarding_id": "OFF-000010",
+    "employee_id": "EMP-000491",
+    "exit_date": "2026-11-10",
+    "case_status": "In Progress"
+  }
+]

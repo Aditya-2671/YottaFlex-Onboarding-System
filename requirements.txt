@@ -1,0 +1,4 @@
+Faker>=20.0
+networkx>=3.0
+pandas>=2.0
+pytest>=8.0

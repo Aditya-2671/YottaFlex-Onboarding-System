@@ -1,0 +1,182 @@
+[
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000001-001",
+    "offboarding_id": "OFF-000001",
+    "employee_id": "EMP-000500",
+    "task_name": "Revoke system access",
+    "task_status": "Pending",
+    "due_date": "2026-11-10",
+    "completed_date": ""
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000001-002",
+    "offboarding_id": "OFF-000001",
+    "employee_id": "EMP-000500",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000002-001",
+    "offboarding_id": "OFF-000002",
+    "employee_id": "EMP-000499",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000002-002",
+    "offboarding_id": "OFF-000002",
+    "employee_id": "EMP-000499",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000003-001",
+    "offboarding_id": "OFF-000003",
+    "employee_id": "EMP-000498",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000003-002",
+    "offboarding_id": "OFF-000003",
+    "employee_id": "EMP-000498",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000004-001",
+    "offboarding_id": "OFF-000004",
+    "employee_id": "EMP-000497",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000004-002",
+    "offboarding_id": "OFF-000004",
+    "employee_id": "EMP-000497",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000005-001",
+    "offboarding_id": "OFF-000005",
+    "employee_id": "EMP-000496",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000005-002",
+    "offboarding_id": "OFF-000005",
+    "employee_id": "EMP-000496",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000006-001",
+    "offboarding_id": "OFF-000006",
+    "employee_id": "EMP-000495",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000006-002",
+    "offboarding_id": "OFF-000006",
+    "employee_id": "EMP-000495",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000007-001",
+    "offboarding_id": "OFF-000007",
+    "employee_id": "EMP-000494",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000007-002",
+    "offboarding_id": "OFF-000007",
+    "employee_id": "EMP-000494",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000008-001",
+    "offboarding_id": "OFF-000008",
+    "employee_id": "EMP-000493",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000008-002",
+    "offboarding_id": "OFF-000008",
+    "employee_id": "EMP-000493",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000009-001",
+    "offboarding_id": "OFF-000009",
+    "employee_id": "EMP-000492",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000009-002",
+    "offboarding_id": "OFF-000009",
+    "employee_id": "EMP-000492",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000010-001",
+    "offboarding_id": "OFF-000010",
+    "employee_id": "EMP-000491",
+    "task_name": "Revoke system access",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  },
+  {
+    "offboarding_task_id": "TASK-OFF-OFF-000010-002",
+    "offboarding_id": "OFF-000010",
+    "employee_id": "EMP-000491",
+    "task_name": "Recover assigned assets",
+    "task_status": "Completed",
+    "due_date": "2026-11-10",
+    "completed_date": "2026-11-10"
+  }
+]

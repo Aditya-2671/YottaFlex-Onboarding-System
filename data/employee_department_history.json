@@ -1,0 +1,9 @@
+[
+  {
+    "history_id": "DEPT-HIST-ANOM-001",
+    "employee_id": "EMP-000005",
+    "old_department_id": "DEPT-002",
+    "new_department_id": "DEPT-001",
+    "effective_date": "2026-11-10"
+  }
+]

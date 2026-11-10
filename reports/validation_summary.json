@@ -1,0 +1,265 @@
+{
+  "summary": {
+    "total_checks": 48,
+    "passed": 48,
+    "failed": 0
+  },
+  "metrics": {
+    "employee_count": 500,
+    "onboarding_case_count": 500,
+    "task_count": 4000,
+    "task_completion_rate": 0.2412,
+    "open_overdue_task_count": 2278,
+    "late_completion_count": 1,
+    "sla_breach_count": 2279,
+    "access_revocation_count": 9,
+    "offboarding_task_count": 20
+  },
+  "checks": [
+    {
+      "check": "departments primary-key uniqueness",
+      "status": "PASS",
+      "detail": "8 rows; 8 unique IDs"
+    },
+    {
+      "check": "roles primary-key uniqueness",
+      "status": "PASS",
+      "detail": "12 rows; 12 unique IDs"
+    },
+    {
+      "check": "managers primary-key uniqueness",
+      "status": "PASS",
+      "detail": "50 rows; 50 unique IDs"
+    },
+    {
+      "check": "employees primary-key uniqueness",
+      "status": "PASS",
+      "detail": "500 rows; 500 unique IDs"
+    },
+    {
+      "check": "onboarding_cases primary-key uniqueness",
+      "status": "PASS",
+      "detail": "500 rows; 500 unique IDs"
+    },
+    {
+      "check": "task_templates primary-key uniqueness",
+      "status": "PASS",
+      "detail": "32 rows; 32 unique IDs"
+    },
+    {
+      "check": "task_instances primary-key uniqueness",
+      "status": "PASS",
+      "detail": "4000 rows; 4000 unique IDs"
+    },
+    {
+      "check": "assets primary-key uniqueness",
+      "status": "PASS",
+      "detail": "600 rows; 600 unique IDs"
+    },
+    {
+      "check": "asset_assignments primary-key uniqueness",
+      "status": "PASS",
+      "detail": "261 rows; 261 unique IDs"
+    },
+    {
+      "check": "access_requests primary-key uniqueness",
+      "status": "PASS",
+      "detail": "300 rows; 300 unique IDs"
+    },
+    {
+      "check": "approvals primary-key uniqueness",
+      "status": "PASS",
+      "detail": "300 rows; 300 unique IDs"
+    },
+    {
+      "check": "offboarding_cases primary-key uniqueness",
+      "status": "PASS",
+      "detail": "10 rows; 10 unique IDs"
+    },
+    {
+      "check": "offboarding_tasks primary-key uniqueness",
+      "status": "PASS",
+      "detail": "20 rows; 20 unique IDs"
+    },
+    {
+      "check": "access_revocations primary-key uniqueness",
+      "status": "PASS",
+      "detail": "9 rows; 9 unique IDs"
+    },
+    {
+      "check": "employee_department_history primary-key uniqueness",
+      "status": "PASS",
+      "detail": "1 rows; 1 unique IDs"
+    },
+    {
+      "check": "audit_events primary-key uniqueness",
+      "status": "PASS",
+      "detail": "724 rows; 724 unique IDs"
+    },
+    {
+      "check": "Configured baseline volumes",
+      "status": "PASS",
+      "detail": "Expected {'employees': 500, 'departments': 8, 'roles': 12, 'managers': 50, 'onboarding_cases': 500, 'task_instances': 4000, 'assets': 600, 'access_requests': 300}; generated {'employees': 500, 'departments': 8, 'roles': 12, 'managers': 50, 'onboarding_cases': 500, 'task_instances': 4000, 'assets': 600, 'access_requests': 300}"
+    },
+    {
+      "check": "Employee-to-case coverage",
+      "status": "PASS",
+      "detail": "Every case references an employee"
+    },
+    {
+      "check": "Task-to-case integrity",
+      "status": "PASS",
+      "detail": "Every task references a case"
+    },
+    {
+      "check": "Dependency references",
+      "status": "PASS",
+      "detail": "Dependency endpoints exist"
+    },
+    {
+      "check": "Employee reference integrity",
+      "status": "PASS",
+      "detail": "Employee department, role and optional manager references resolve"
+    },
+    {
+      "check": "Task owner validity",
+      "status": "PASS",
+      "detail": "Every task has a valid manager owner"
+    },
+    {
+      "check": "Role-department alignment",
+      "status": "PASS",
+      "detail": "Each employee's role belongs to the employee's current department"
+    },
+    {
+      "check": "Role/location task template coverage",
+      "status": "PASS",
+      "detail": "24 role/location templates; generated tasks match employee attributes"
+    },
+    {
+      "check": "Dependency graph acyclic",
+      "status": "PASS",
+      "detail": "Task prerequisites form a directed acyclic graph"
+    },
+    {
+      "check": "Task prerequisite completion rule",
+      "status": "PASS",
+      "detail": "Detected 1 completed task(s) with incomplete prerequisite(s); one is intentionally injected"
+    },
+    {
+      "check": "Task anomaly label alignment",
+      "status": "PASS",
+      "detail": "The dependency exception exactly matches its ground-truth label"
+    },
+    {
+      "check": "Seven anomaly labels",
+      "status": "PASS",
+      "detail": "Found 7 expected anomaly labels"
+    },
+    {
+      "check": "Missing-manager anomaly detection",
+      "status": "PASS",
+      "detail": "Detected 1 employee(s) with no manager"
+    },
+    {
+      "check": "Required workforce variation",
+      "status": "PASS",
+      "detail": "Permanent/contractor, remote/on-site and an urgent future start are represented"
+    },
+    {
+      "check": "Duplicate active asset assignment detection",
+      "status": "PASS",
+      "detail": "Detected 1 duplicated asset(s)"
+    },
+    {
+      "check": "Offboarding active access detection",
+      "status": "PASS",
+      "detail": "Detected 2 active access request(s) for exiting employees"
+    },
+    {
+      "check": "Terminated employee offboarding coverage",
+      "status": "PASS",
+      "detail": "10 terminated employees; 10 offboarding cases"
+    },
+    {
+      "check": "Access revocation history",
+      "status": "PASS",
+      "detail": "9 revoked requests have corresponding offboarding history"
+    },
+    {
+      "check": "Offboarding revocation and asset tasks",
+      "status": "PASS",
+      "detail": "20 explicit offboarding tasks cover 10 exits"
+    },
+    {
+      "check": "Offboarding access-removal outcomes",
+      "status": "PASS",
+      "detail": "1 open revocation task(s), matching the intentional exception"
+    },
+    {
+      "check": "Overdue task detection",
+      "status": "PASS",
+      "detail": "Detected 2278 open overdue task(s)"
+    },
+    {
+      "check": "Task lifecycle and date consistency",
+      "status": "PASS",
+      "detail": "Completion dates and overdue statuses agree with task state and as-of date"
+    },
+    {
+      "check": "Start-before-background-check detection",
+      "status": "PASS",
+      "detail": "Detected 1 employee(s)"
+    },
+    {
+      "check": "Mid-process department-change history",
+      "status": "PASS",
+      "detail": "Detected 1 department change(s)"
+    },
+    {
+      "check": "Approval-before-access consistency",
+      "status": "PASS",
+      "detail": "195 approved access request(s); all have approved decisions"
+    },
+    {
+      "check": "Provisioning after approval",
+      "status": "PASS",
+      "detail": "Approved access is provisioned only after a dated approval"
+    },
+    {
+      "check": "Request approval decision consistency",
+      "status": "PASS",
+      "detail": "Every access request has one corresponding approval with a consistent decision"
+    },
+    {
+      "check": "Late approvals represented",
+      "status": "PASS",
+      "detail": "At least one approval occurs after its request date"
+    },
+    {
+      "check": "Lifecycle date ordering",
+      "status": "PASS",
+      "detail": "Case, assignment, access-revocation and offboarding dates are ordered"
+    },
+    {
+      "check": "SLA breach reconciliation",
+      "status": "PASS",
+      "detail": "2279 SLA breaches = 2278 open overdue + 1 late completions"
+    },
+    {
+      "check": "State-change audit history",
+      "status": "PASS",
+      "detail": "724 uniquely identified audit events; key workflow changes retained"
+    },
+    {
+      "check": "SQLite foreign-key integrity",
+      "status": "PASS",
+      "detail": "0 foreign-key violation(s)"
+    }
+  ],
+  "known_limitations": [
+    "Synthetic scenario labels are intentionally injected for testing, not real employee events.",
+    "The generator models workflow records and rules; it does not integrate with real HR, identity, email, or asset-management systems.",
+    "This validator tests the explicitly implemented challenge rules; it is not a production policy engine."
+  ]
+}

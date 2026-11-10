@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-11-10",
+  "scope": "Current local project files and generated baseline",
+  "environment": "Windows",
+  "commands": {
+    "generation": {
+      "command": "python generate.py",
+      "status": "passed",
+      "generated_tables": 17,
+      "ground_truth_anomalies": 7
+    },
+    "validation": {
+      "command": "python validate.py",
+      "status": "passed",
+      "total_checks": 48,
+      "passed": 48,
+      "failed": 0
+    },
+    "tests": {
+      "command": "python -m pytest -q",
+      "status": "passed",
+      "passed": 3,
+      "failed": 0
+    }
+  },
+  "baseline_row_counts": {
+    "departments": 8,
+    "roles": 12,
+    "managers": 50,
+    "employees": 500,
+    "onboarding_cases": 500,
+    "task_templates": 32,
+    "task_instances": 4000,
+    "task_dependencies": 3500,
+    "assets": 600,
+    "asset_assignments": 261,
+    "access_requests": 300,
+    "approvals": 300,
+    "offboarding_cases": 10,
+    "offboarding_tasks": 20,
+    "access_revocations": 9,
+    "employee_department_history": 1,
+    "audit_events": 724
+  },
+  "cross_artifact_checks": {
+    "generated_sql_seed_imports": true,
+    "sql_seed_table_set_matches_database": true,
+    "sql_seed_row_counts_match_database": true,
+    "sql_seed_foreign_key_violations": 0,
+    "csv_columns_match_database_tables": true
+  },
+  "not_verified": [
+    "Public GitHub repository publication",
+    "Challenge portal submission",
+    "Acceptance by any hidden grader"
+  ]
+}

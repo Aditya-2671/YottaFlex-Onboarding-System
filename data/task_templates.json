@@ -1,0 +1,258 @@
+[
+  {
+    "template_id": "TPL-001",
+    "task_name": "Sign employment documents",
+    "department_owner": "Human Resources",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 1
+  },
+  {
+    "template_id": "TPL-002",
+    "task_name": "Complete background verification",
+    "department_owner": "Human Resources",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 2
+  },
+  {
+    "template_id": "TPL-003",
+    "task_name": "Create corporate account",
+    "department_owner": "IT",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 3
+  },
+  {
+    "template_id": "TPL-004",
+    "task_name": "Provision role access",
+    "department_owner": "IT",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 4
+  },
+  {
+    "template_id": "TPL-005",
+    "task_name": "Approve access request",
+    "department_owner": "Manager",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 5
+  },
+  {
+    "template_id": "TPL-006",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-007",
+    "task_name": "Prepare workspace",
+    "department_owner": "Facilities",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 7
+  },
+  {
+    "template_id": "TPL-008",
+    "task_name": "Complete HR orientation",
+    "department_owner": "Human Resources",
+    "required_role": null,
+    "required_location": null,
+    "sequence_number": 8
+  },
+  {
+    "template_id": "TPL-009",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-001",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-010",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-001",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-011",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-002",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-012",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-002",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-013",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-003",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-014",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-003",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-015",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-004",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-016",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-004",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-017",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-005",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-018",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-005",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-019",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-006",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-020",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-006",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-021",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-007",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-022",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-007",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-023",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-008",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-024",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-008",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-025",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-009",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-026",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-009",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-027",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-010",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-028",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-010",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-029",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-011",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-030",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-011",
+    "required_location": "On-site",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-031",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-012",
+    "required_location": "Remote",
+    "sequence_number": 6
+  },
+  {
+    "template_id": "TPL-032",
+    "task_name": "Prepare laptop",
+    "department_owner": "IT",
+    "required_role": "ROLE-012",
+    "required_location": "On-site",
+    "sequence_number": 6
+  }
+]

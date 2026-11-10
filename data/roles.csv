@@ -1,0 +1,13 @@
+role_id,role_name,department_id
+ROLE-001,Software Engineer,DEPT-001
+ROLE-002,Data Analyst,DEPT-001
+ROLE-003,Product Manager,DEPT-001
+ROLE-004,HR Specialist,DEPT-002
+ROLE-005,Recruiter,DEPT-002
+ROLE-006,Accountant,DEPT-003
+ROLE-007,IT Support Engineer,DEPT-004
+ROLE-008,Systems Administrator,DEPT-004
+ROLE-009,Facilities Coordinator,DEPT-005
+ROLE-010,Sales Executive,DEPT-006
+ROLE-011,Operations Analyst,DEPT-007
+ROLE-012,Marketing Specialist,DEPT-008

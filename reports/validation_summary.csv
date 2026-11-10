@@ -1,0 +1,49 @@
+check,status,detail
+departments primary-key uniqueness,PASS,8 rows; 8 unique IDs
+roles primary-key uniqueness,PASS,12 rows; 12 unique IDs
+managers primary-key uniqueness,PASS,50 rows; 50 unique IDs
+employees primary-key uniqueness,PASS,500 rows; 500 unique IDs
+onboarding_cases primary-key uniqueness,PASS,500 rows; 500 unique IDs
+task_templates primary-key uniqueness,PASS,32 rows; 32 unique IDs
+task_instances primary-key uniqueness,PASS,4000 rows; 4000 unique IDs
+assets primary-key uniqueness,PASS,600 rows; 600 unique IDs
+asset_assignments primary-key uniqueness,PASS,261 rows; 261 unique IDs
+access_requests primary-key uniqueness,PASS,300 rows; 300 unique IDs
+approvals primary-key uniqueness,PASS,300 rows; 300 unique IDs
+offboarding_cases primary-key uniqueness,PASS,10 rows; 10 unique IDs
+offboarding_tasks primary-key uniqueness,PASS,20 rows; 20 unique IDs
+access_revocations primary-key uniqueness,PASS,9 rows; 9 unique IDs
+employee_department_history primary-key uniqueness,PASS,1 rows; 1 unique IDs
+audit_events primary-key uniqueness,PASS,724 rows; 724 unique IDs
+Configured baseline volumes,PASS,"Expected {'employees': 500, 'departments': 8, 'roles': 12, 'managers': 50, 'onboarding_cases': 500, 'task_instances': 4000, 'assets': 600, 'access_requests': 300}; generated {'employees': 500, 'departments': 8, 'roles': 12, 'managers': 50, 'onboarding_cases': 500, 'task_instances': 4000, 'assets': 600, 'access_requests': 300}"
+Employee-to-case coverage,PASS,Every case references an employee
+Task-to-case integrity,PASS,Every task references a case
+Dependency references,PASS,Dependency endpoints exist
+Employee reference integrity,PASS,"Employee department, role and optional manager references resolve"
+Task owner validity,PASS,Every task has a valid manager owner
+Role-department alignment,PASS,Each employee's role belongs to the employee's current department
+Role/location task template coverage,PASS,24 role/location templates; generated tasks match employee attributes
+Dependency graph acyclic,PASS,Task prerequisites form a directed acyclic graph
+Task prerequisite completion rule,PASS,Detected 1 completed task(s) with incomplete prerequisite(s); one is intentionally injected
+Task anomaly label alignment,PASS,The dependency exception exactly matches its ground-truth label
+Seven anomaly labels,PASS,Found 7 expected anomaly labels
+Missing-manager anomaly detection,PASS,Detected 1 employee(s) with no manager
+Required workforce variation,PASS,"Permanent/contractor, remote/on-site and an urgent future start are represented"
+Duplicate active asset assignment detection,PASS,Detected 1 duplicated asset(s)
+Offboarding active access detection,PASS,Detected 2 active access request(s) for exiting employees
+Terminated employee offboarding coverage,PASS,10 terminated employees; 10 offboarding cases
+Access revocation history,PASS,9 revoked requests have corresponding offboarding history
+Offboarding revocation and asset tasks,PASS,20 explicit offboarding tasks cover 10 exits
+Offboarding access-removal outcomes,PASS,"1 open revocation task(s), matching the intentional exception"
+Overdue task detection,PASS,Detected 2278 open overdue task(s)
+Task lifecycle and date consistency,PASS,Completion dates and overdue statuses agree with task state and as-of date
+Start-before-background-check detection,PASS,Detected 1 employee(s)
+Mid-process department-change history,PASS,Detected 1 department change(s)
+Approval-before-access consistency,PASS,195 approved access request(s); all have approved decisions
+Provisioning after approval,PASS,Approved access is provisioned only after a dated approval
+Request approval decision consistency,PASS,Every access request has one corresponding approval with a consistent decision
+Late approvals represented,PASS,At least one approval occurs after its request date
+Lifecycle date ordering,PASS,"Case, assignment, access-revocation and offboarding dates are ordered"
+SLA breach reconciliation,PASS,2279 SLA breaches = 2278 open overdue + 1 late completions
+State-change audit history,PASS,724 uniquely identified audit events; key workflow changes retained
+SQLite foreign-key integrity,PASS,0 foreign-key violation(s)

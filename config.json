@@ -1,0 +1,23 @@
+{
+  "seed": 20261022,
+  "scale": {
+    "employees": 500,
+    "departments": 8,
+    "managers": 50,
+    "roles": 12,
+    "onboarding_cases": 500,
+    "tasks": 4000,
+    "assets": 600,
+    "access_requests": 300
+  },
+  "anomalies": {
+    "task_before_prerequisite": 1,
+    "missing_manager": 1,
+    "duplicate_asset_assignment": 1,
+    "start_before_background_check": 1,
+    "offboarding_active_access": 1,
+    "overdue_tasks": 1,
+    "mid_process_department_change": 1
+  },
+  "as_of_date": "2026-11-10"
+}
