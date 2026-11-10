@@ -37,6 +37,12 @@ the validation result. `python validate.py` reruns validation and writes the
 JSON and CSV reports. The test suite checks baseline volumes, validation
 results, and deterministic exported-data/ground-truth checksums.
 
+## Continuous integration
+
+GitHub Actions runs the generation command, validator, and test suite on pushes
+and pull requests targeting `main`, using Python 3.10 and 3.14. You can also
+start a run manually from the repository's Actions tab.
+
 ## Main project files
 
 - `config.json` — fixed seed, as-of date, baseline scale, and anomaly counts
