@@ -111,6 +111,17 @@ This project is published in the public GitHub repository
 Per the challenge page, the candidate still needs to submit this repository
 URL on the challenge portal before the deadline.
 
+## AI transparency and prompt history
+
+This project was developed and reviewed with GitHub Copilot in VS Code. To
+meet the FAQ requirement for transparent AI usage and prompt tracking, the
+repository includes:
+
+- `AI_USAGE_DISCLOSURE.md` — summary of AI usage, validation approach, and
+  disclosure of limitations.
+- `PROMPT_HISTORY.md` — a reasonable local log of the prompts used during the
+  project status, validation, and compliance-review workflow.
+
 ## Limitations
 
 This is a synthetic workflow/data challenge, not a production HR platform. It
